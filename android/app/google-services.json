@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112040413285",
+    "project_id": "mycooking-1ba31",
+    "storage_bucket": "mycooking-1ba31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112040413285:android:0fe0a8d7b20086fbe51e8c",
+        "android_client_info": {
+          "package_name": "com.krudya.daily_cooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112040413285-o58cameput4057drjt1ruvv8oq8pmogi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv79W_c7ku74s8zHjHUWH2ni1p4QqEA_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112040413285-o58cameput4057drjt1ruvv8oq8pmogi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
